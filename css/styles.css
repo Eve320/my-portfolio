@@ -1,0 +1,19 @@
+.head{
+  color: 	#FF7F50;
+  text-align: center;
+  font-style: italic;
+  font-family: verdana;
+  text-decoration: underline;
+}
+
+.about{
+  background-color: #fff;
+  text-align: justify;
+  font:60%;
+
+}
+
+
+img{
+  float: left;
+}
