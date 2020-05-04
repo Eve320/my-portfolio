@@ -41,3 +41,11 @@ img{
 .about-me{
   background-color: pink;
 }
+
+.about h2{
+  color: red;
+}
+
+.projects h2{
+  color: red;
+}
